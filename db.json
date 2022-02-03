@@ -4,6 +4,11 @@
       "id": 1,
       "name": "Akash",
       "age": 20
+    },
+    {
+      "id": 2,
+      "name": "Kiara",
+      "age": 20
     }
   ]
 }
