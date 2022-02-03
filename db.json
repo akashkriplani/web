@@ -2,7 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Akash"
+      "name": "Akash",
+      "age": 20
     }
   ]
 }
